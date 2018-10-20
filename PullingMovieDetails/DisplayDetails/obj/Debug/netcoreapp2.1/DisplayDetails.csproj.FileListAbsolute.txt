@@ -1,0 +1,14 @@
+C:\Users\Alrick\source\repos\PullingMovieDetails\DisplayDetails\bin\Debug\netcoreapp2.1\DisplayDetails.deps.json
+C:\Users\Alrick\source\repos\PullingMovieDetails\DisplayDetails\bin\Debug\netcoreapp2.1\DisplayDetails.runtimeconfig.json
+C:\Users\Alrick\source\repos\PullingMovieDetails\DisplayDetails\bin\Debug\netcoreapp2.1\DisplayDetails.runtimeconfig.dev.json
+C:\Users\Alrick\source\repos\PullingMovieDetails\DisplayDetails\bin\Debug\netcoreapp2.1\DisplayDetails.dll
+C:\Users\Alrick\source\repos\PullingMovieDetails\DisplayDetails\bin\Debug\netcoreapp2.1\DisplayDetails.pdb
+C:\Users\Alrick\source\repos\PullingMovieDetails\DisplayDetails\bin\Debug\netcoreapp2.1\MovieApi.dll
+C:\Users\Alrick\source\repos\PullingMovieDetails\DisplayDetails\bin\Debug\netcoreapp2.1\MovieApi.pdb
+C:\Users\Alrick\source\repos\PullingMovieDetails\DisplayDetails\obj\Debug\netcoreapp2.1\DisplayDetails.csprojAssemblyReference.cache
+C:\Users\Alrick\source\repos\PullingMovieDetails\DisplayDetails\obj\Debug\netcoreapp2.1\DisplayDetails.csproj.CoreCompileInputs.cache
+C:\Users\Alrick\source\repos\PullingMovieDetails\DisplayDetails\obj\Debug\netcoreapp2.1\DisplayDetails.AssemblyInfoInputs.cache
+C:\Users\Alrick\source\repos\PullingMovieDetails\DisplayDetails\obj\Debug\netcoreapp2.1\DisplayDetails.AssemblyInfo.cs
+C:\Users\Alrick\source\repos\PullingMovieDetails\DisplayDetails\obj\Debug\netcoreapp2.1\DisplayDetails.csproj.CopyComplete
+C:\Users\Alrick\source\repos\PullingMovieDetails\DisplayDetails\obj\Debug\netcoreapp2.1\DisplayDetails.dll
+C:\Users\Alrick\source\repos\PullingMovieDetails\DisplayDetails\obj\Debug\netcoreapp2.1\DisplayDetails.pdb

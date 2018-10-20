@@ -1,0 +1,9 @@
+C:\Users\Alrick\source\repos\PullingMovieDetails\MovieApi\bin\Debug\netcoreapp2.1\MovieApi.deps.json
+C:\Users\Alrick\source\repos\PullingMovieDetails\MovieApi\bin\Debug\netcoreapp2.1\MovieApi.dll
+C:\Users\Alrick\source\repos\PullingMovieDetails\MovieApi\bin\Debug\netcoreapp2.1\MovieApi.pdb
+C:\Users\Alrick\source\repos\PullingMovieDetails\MovieApi\obj\Debug\netcoreapp2.1\MovieApi.csprojAssemblyReference.cache
+C:\Users\Alrick\source\repos\PullingMovieDetails\MovieApi\obj\Debug\netcoreapp2.1\MovieApi.csproj.CoreCompileInputs.cache
+C:\Users\Alrick\source\repos\PullingMovieDetails\MovieApi\obj\Debug\netcoreapp2.1\MovieApi.AssemblyInfoInputs.cache
+C:\Users\Alrick\source\repos\PullingMovieDetails\MovieApi\obj\Debug\netcoreapp2.1\MovieApi.AssemblyInfo.cs
+C:\Users\Alrick\source\repos\PullingMovieDetails\MovieApi\obj\Debug\netcoreapp2.1\MovieApi.dll
+C:\Users\Alrick\source\repos\PullingMovieDetails\MovieApi\obj\Debug\netcoreapp2.1\MovieApi.pdb
